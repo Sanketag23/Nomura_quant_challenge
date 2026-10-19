@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Build artifacts
+*.exe
+*.o
+*.obj
+*.out
+a.out
+
+# IDE / OS
+.vscode/
+.idea/
+*.ini
+desktop.ini
+.DS_Store
+Thumbs.db
+
+# Zip archives
+*.zip
+
+# Slide exports
+slides_output/
+
+# Large data files
+trade_data.csv
+
+# Misc scripts
+convert_pdf.py
+count_frames.py
+plot_curve.py
+read_docx.py
+truncate.py
